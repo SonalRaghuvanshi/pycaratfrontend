@@ -1,1 +1,6 @@
 nltk
+pytest
+toolz
+tzlocal
+pyarrow
+shap
